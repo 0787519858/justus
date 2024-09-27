@@ -1,0 +1,48 @@
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.Form1.resources
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.vbproj.GenerateResource.cache
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.AssemblyInfoInputs.cache
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.AssemblyInfo.vb
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.vbproj.CoreCompileInputs.cache
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.exe
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.deps.json
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.runtimeconfig.json
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.dll
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.pdb
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.dll
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\refint\Receipt.dll
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.pdb
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.genruntimeconfig.cache
+C:\Users\Woko Nicholas Anyoli\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\ref\Receipt.dll
+E:\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.exe
+E:\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.deps.json
+E:\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.runtimeconfig.json
+E:\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.dll
+E:\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.pdb
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.form1.resources
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.vbproj.GenerateResource.cache
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.AssemblyInfoInputs.cache
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.AssemblyInfo.vb
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.vbproj.CoreCompileInputs.cache
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.dll
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\refint\Receipt.dll
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.pdb
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.genruntimeconfig.cache
+E:\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\ref\Receipt.dll
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.exe
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.deps.json
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.runtimeconfig.json
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.dll
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\bin\Debug\net8.0-windows\Receipt.pdb
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.form1.resources
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.vbproj.GenerateResource.cache
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.AssemblyInfoInputs.cache
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.AssemblyInfo.vb
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.vbproj.CoreCompileInputs.cache
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.dll
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\refint\Receipt.dll
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.pdb
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\Receipt.genruntimeconfig.cache
+C:\Users\muzah\OneDrive\Desktop\ProjectCourse Work\Receipt\obj\Debug\net8.0-windows\ref\Receipt.dll
